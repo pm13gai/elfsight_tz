@@ -1,0 +1,32 @@
+.thumb_photo {
+  display: inline-block;
+  margin: 5px 6px;
+  cursor: pointer;
+}
+.thumb_photo:hover{
+  transition: .5s;
+  transform: scale(1.1);
+
+}
+.modal_photo{
+  display:flex;
+  background-color: rgb(92, 86, 86)
+}
+.prev_next{
+  width: 50px;
+}
+.prev_next span{
+  display: block;
+  text-align: center;
+  position: relative;
+  top: 50%;
+}
+
+.prev_next:hover{
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+}
+
+.prev_next:active{
+  background-color: rgba(0, 0, 0, 0.1);
+}

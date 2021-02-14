@@ -1,0 +1,26 @@
+.album_link{
+  text-decoration: unset;
+}
+.album_card{
+  display: flex;
+  background-color: rgb(234, 238, 238);
+  padding: 5px;
+  color: black;  
+}
+.album_card:hover {
+  background-color: rgb(144, 148, 148);
+  color: white;
+}
+.album_desc{
+  margin-left: 20px;
+}
+.album_desc p{
+  margin-top: 50px;
+  font-size: 16px;
+}
+.album_desc span{
+  display: block;
+  padding-top: 10px;
+}
+
+
