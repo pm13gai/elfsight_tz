@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/elfsight_tz/static/css/main.1fed13e4.chunk.css",
+    "main.js": "/elfsight_tz/static/js/main.1472fb9f.chunk.js",
+    "main.js.map": "/elfsight_tz/static/js/main.1472fb9f.chunk.js.map",
+    "runtime-main.js": "/elfsight_tz/static/js/runtime-main.0d3c18df.js",
+    "runtime-main.js.map": "/elfsight_tz/static/js/runtime-main.0d3c18df.js.map",
+    "static/js/2.c8008b29.chunk.js": "/elfsight_tz/static/js/2.c8008b29.chunk.js",
+    "static/js/2.c8008b29.chunk.js.map": "/elfsight_tz/static/js/2.c8008b29.chunk.js.map",
+    "index.html": "/elfsight_tz/index.html",
+    "static/css/main.1fed13e4.chunk.css.map": "/elfsight_tz/static/css/main.1fed13e4.chunk.css.map",
+    "static/js/2.c8008b29.chunk.js.LICENSE.txt": "/elfsight_tz/static/js/2.c8008b29.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d3c18df.js",
+    "static/js/2.c8008b29.chunk.js",
+    "static/css/main.1fed13e4.chunk.css",
+    "static/js/main.1472fb9f.chunk.js"
+  ]
+}
